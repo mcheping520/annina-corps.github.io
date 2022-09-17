@@ -1,0 +1,14 @@
+body {
+    background: url(../img/QQ图片20220917222902.png) no-repeat;
+    background-attachment: fixed;
+}
+
+.annina {
+    text-align: center;
+    color: red;
+    text-shadow: 10px 10px 10px #000000;
+}
+
+.video {
+    text-align: center;
+}

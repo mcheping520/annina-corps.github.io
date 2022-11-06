@@ -1,5 +1,6 @@
 body {
     background: url(../img/QQ图片20220917222902.png) no-repeat;
+    background-size: cover;
     background-attachment: fixed;
 }
 
@@ -11,4 +12,17 @@ body {
 
 .video {
     text-align: center;
+}
+
+.bottom-nav {
+    /*color: white;*/
+    text-align: center;
+    background-color: black;
+    box-shadow: 0 0 0 25px;
+
+}
+
+.bottom-nav h1 a{
+    color: white;
+    text-decoration: none;
 }
